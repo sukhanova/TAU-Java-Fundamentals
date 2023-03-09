@@ -2,7 +2,7 @@ package chapter8;
 
 import java.util.Scanner;
 
-@// TODO: 3/5/23  - to complete reset password validator 
+// TODO: 3/5/23  - to complete reset password validator
 public class PasswordValidator {
 
     private String username;
